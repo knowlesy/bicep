@@ -1,0 +1,2 @@
+# bicep
+Testing Azure Bicep 
